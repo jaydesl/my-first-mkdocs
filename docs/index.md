@@ -2,12 +2,11 @@
 
 Hi I'm Jay at Imperial. I'm a Teaching Fellow. Thanks for coming to my course.
 
-## Commands
+![The ECRI banner](assets/ecri-banner.png)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Getting Started
+
+Please enjoy my nice website.
 
 ## Project layout
 
