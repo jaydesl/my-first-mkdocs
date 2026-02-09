@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Jay's Site
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi I'm Jay at Imperial. I'm a Teaching Fellow. Thanks for coming to my course.
 
 ## Commands
 
